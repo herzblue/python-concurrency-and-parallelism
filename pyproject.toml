@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "파이썬 동시성 프로그래밍 : 데이터 수집부터 웹 개발까지 (feat. Fas를 수강하며 정리"
 authors = ["herzblue <herzblue@gmail.com>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "3.11.9"
